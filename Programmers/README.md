@@ -15,3 +15,5 @@
 ## Level 2(Python)
   * 문제 : [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)
   * 문제 : [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)
+  * 문제 : [124나라의숫자]
+  * 문제 : [프린터]
